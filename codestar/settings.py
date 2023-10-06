@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-jamesh003-djangoblog-hpsmjw4xpt3.ws-eu105.gitpod.io', 'codestar2023-django-project.herokuapp,com', 'localhost']
+ALLOWED_HOSTS = ['8000-jamesh003-djangoblog-hpsmjw4xpt3.ws-eu105.gitpod.io', 'codestar2023-django-project.herokuapp,com', 'codestar2023-django-project-95fb9b2e2e54.herokuapp.com' 'localhost']
 
 
 # Application definition
